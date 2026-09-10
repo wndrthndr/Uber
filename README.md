@@ -9,9 +9,6 @@
   Real-time driver discovery · Intelligent matching · Kafka events · Redis Geospatial · Spring Boot · Docker
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=Cdx4DF9N8d8">▶️ Original Reference</a>
-</p>
 
 ---
 
